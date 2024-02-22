@@ -12,9 +12,9 @@ Ich bin Adrian! Willkommen auf meiner Seite :D
 
 # 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pharospa&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pfarospa&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=pharospa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=pfarospa&layout=compact&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pharospa&layout=compact&theme=tokyonight)
 
