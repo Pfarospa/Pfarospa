@@ -16,7 +16,7 @@ Ich bin Adrian! Willkommen auf meiner Seite :D
 
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=pfarospa&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pharospa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfarospa&layout=compact&theme=tokyonight)
 
 
 ### ✍️ Random Dev Quote
