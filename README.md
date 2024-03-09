@@ -4,7 +4,6 @@ Ich bin Adrian! Willkommen auf meiner Seite :D
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/833639587204169759) 
-![Twitter](https://img.shields.io/badge/Twitter-%237289DA.svg?logo=twitter&logoColor=white)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/833639587204169759)](https://discord.com/users/833639587204169759)
 
