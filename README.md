@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ich bin Adrian! Willkommen in meinem GitHub Readme. :D
+Ich bin Adrian! Willkommen in meinem GitHub Readme :D
 
 ## 🌐 Socials:
 
