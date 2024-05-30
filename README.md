@@ -16,7 +16,7 @@ Ich bin Adrian! Willkommen in meinem GitHub Readme :D
 
 # 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pfarospa&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pfarospa&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=pfarospa&layout=compact&theme=tokyonight)
 
