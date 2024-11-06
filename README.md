@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-👋 Hi, I’m Adrian
-🌱 I’m currently learning C#, JavaScript
-📫 How to reach me: E-Mail: 
+- 👋 Hi, I’m Adrian
+- 🌱 I’m currently learning C#, JavaScript
+- 📫 How to reach me: E-Mail: [![adrian@pfarospa.de](https://
 
 ## 🌐 Socials:
 
