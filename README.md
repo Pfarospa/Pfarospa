@@ -9,12 +9,12 @@ Ich bin Adrian! Willkommen in meinem GitHub Readme :D
 
 ## 💻 Tech Stack:
 
-## Programmiersprachen
+### Programmiersprachen
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,)
 
 
-## Tools
-![My Skills](https://skillicons.dev/icons?i=rider,webstorm,idea,pycharm,vscode,cloudflare,github,discord, )
+### Tools
+![My Skills](https://skillicons.dev/icons?i=rider,webstorm,idea,pycharm,vscode,cloudflare,github,discord,figma )
 
 
 ## 📊 GitHub Stats
@@ -24,7 +24,7 @@ Ich bin Adrian! Willkommen in meinem GitHub Readme :D
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=pfarospa&layout=compact&theme=tokyonight)
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
