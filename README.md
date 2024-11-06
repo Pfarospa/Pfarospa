@@ -1,5 +1,8 @@
 # 💫 About Me:
-Ich bin Adrian! Willkommen in meinem GitHub Readme :D
+
+👋 Hi, I’m Adrian
+🌱 I’m currently learning C#, JavaScript
+📫 How to reach me: E-Mail: 
 
 ## 🌐 Socials:
 
