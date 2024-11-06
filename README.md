@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Adrian
 - 🌱 I’m currently learning C#, JavaScript
-- 📫 How to reach me: E-Mail: [![adrian@pfarospa.de](https://
+- 📫 How to reach me: E-Mail: ![adrian@pfarospa.de](https://mailto:adrian@pfarospa.de)
 
 ## 🌐 Socials:
 
