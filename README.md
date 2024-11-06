@@ -7,17 +7,17 @@ Ich bin Adrian! Willkommen in meinem GitHub Readme :D
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/833639587204169759)](https://discord.com/users/833639587204169759)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ## Programmiersprachen
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,)
 
 
-# Tools
+## Tools
 ![My Skills](https://skillicons.dev/icons?i=rider,webstorm,idea,pycharm,vscode,cloudflare,github,discord, )
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pfarospa&show_icons=true&theme=tokyonight)
 
