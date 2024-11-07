@@ -10,6 +10,7 @@
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/833639587204169759)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/833639587204169759)](https://discord.com/users/833639587204169759)
 
 ## 💻 Tech Stack:
@@ -25,7 +26,11 @@
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pfarospa&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=pfarospa&layout=compact&theme=tokyonight)
+
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pfarospa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## ✍️ Random Dev Quote
