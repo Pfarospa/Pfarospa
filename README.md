@@ -29,8 +29,6 @@
 
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=pfarospa&layout=compact&theme=tokyonight)
 
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pfarospa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## ✍️ Random Dev Quote
