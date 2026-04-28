@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 👋 Hi, I’m Adrian
-- 🌱 I’m currently learning C#, JavaScript
+- 🌱 I’m currently working on [OneStep](https://github.com/OneStep-App)
 - 📫 How to reach me:
     - E-Mail: [adrian@onestep-challenger.app](mailto:adrian@onestep-challenger.app)
     - Website: [Pfarospa.de](https://pfarospa.de)
