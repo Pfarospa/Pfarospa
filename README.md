@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 👋 Hi, I’m Adrian
-- 🌱 I’m currently working on [OneStep](https://github.com/OneStep-App)
+- 🌱 I’m currently working on [OneStep](https://github.com/OneStep-App) my own app for your smartphone
 - 📫 How to reach me:
     - E-Mail: [adrian@onestep-challenger.app](mailto:adrian@onestep-challenger.app)
     - Website: [Pfarospa.de](https://pfarospa.de)
