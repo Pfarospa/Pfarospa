@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Adrian
 - 🌱 I’m currently learning C#, JavaScript
 - 📫 How to reach me:
-    - E-Mail: [adrian@pfarospa.de](mailto:adrian@pfarospa.de)
+    - E-Mail: [adrian@onestep-challenger.app](mailto:adrian@onestep-challenger.app)
     - Website: [Pfarospa.de](https://pfarospa.de)
     - Discord: [Pfarospa](https://discordapp.com/users/833639587204169759)
 
