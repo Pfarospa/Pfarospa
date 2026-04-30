@@ -20,7 +20,7 @@
 
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=rider,webstorm,idea,pycharm,vscode,github,discord,bots,raspberrypi,cloudflare,claude)
+![My Skills](https://skillicons.dev/icons?i=rider,webstorm,idea,pycharm,vscode,github,discord,bots,raspberrypi,cloudflare,chatgpt)
 
 
 ## 📊 GitHub Stats
