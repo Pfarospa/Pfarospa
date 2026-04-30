@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 👋 Hi, I’m Adrian
-- 🌱 I’m currently working on `OneStep - Your Daily Challenger my own app for your iPhone!`
+- 🌱 I’m currently working on `OneStep App - Your Daily Challenger`
 - 📫 How to reach me:
     - E-Mail: [adrian@onestep-challenger.app](mailto:adrian@onestep-challenger.app)
     - Website: [Pfarospa.de](https://pfarospa.de)
