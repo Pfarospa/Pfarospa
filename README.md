@@ -16,7 +16,7 @@
 ## 💻 Tech Stack:
 
 ### Programmiersprachen
-![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,swift)
 
 
 ### Tools
